@@ -1,4 +1,4 @@
-JavaScript ES6 Part 2
+# JavaScript ES6 Part 2
 
 ## Description
 
