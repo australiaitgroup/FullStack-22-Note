@@ -1,4 +1,4 @@
-# Lecture 06 JavaScript ES6
+# JavaScript ES6
 
 ## Desciption
 
