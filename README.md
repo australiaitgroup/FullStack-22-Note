@@ -6,3 +6,5 @@
 - [Lecture_04_CSS_&_Sass_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/29f92df2435c88e53bf02e667d9dcb654d3abc3f/Lecture_04_CSS_%26_Sass_Note.md)
 - [Lecture_05_JavaScript_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/ff89dbcc3b610723bb24d914304dae4a39953a4a/Lecture_05_JavaScript_Note.md)
 - [Lecture_06_Git_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/27c9f297ff0042d5e2e5a8b641fed33d692944f3/Lecture_06_Git_Note.md)
+- [Lecture_07_JavaScript_ES6_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/b0bd273f5e5b474e53e71e743b4939d41b109546/Lecture_07_JavaScript_ES6_Note.md)
+- [Lecture_08_JavaScript_ES6_Part_2.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/main/Lecture_08_JavaScript_ES6_Part_2.md)
