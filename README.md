@@ -8,3 +8,5 @@
 - [Lecture_06_Git_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/27c9f297ff0042d5e2e5a8b641fed33d692944f3/Lecture_06_Git_Note.md)
 - [Lecture_07_JavaScript_ES6_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/b0bd273f5e5b474e53e71e743b4939d41b109546/Lecture_07_JavaScript_ES6_Note.md)
 - [Lecture_08_JavaScript_ES6_Part_2.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/main/Lecture_08_JavaScript_ES6_Part_2.md)
+- [Lecture_09_React_Part_1.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/d1225cf6b256b9d2a5c299b0bb38ca886ade51de/Lecture_09_React_Part_1_Note.md)
+- [Lecture_10_React_Part_2.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/d1225cf6b256b9d2a5c299b0bb38ca886ade51de/Lecture_10_React_Part_2_Note.md)
