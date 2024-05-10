@@ -7,8 +7,6 @@
   - 课程代码：https://github.com/damoqiongqiu/es6-webpack-quickstart
   - 知识结构脑图：https://naotu.baidu.com/file/547762325c74dabadcc476262298814c?token=7a621251020a7fa1
 
-## Table of Content
-
 ## Table of Contents
 
 1. [Spread 展开](#1-spread-展开)
