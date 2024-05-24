@@ -13,3 +13,4 @@
 - [Lecture_11_React_Part_3.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/396ae3962c4d13b62f724e7762222c03daf4b03a/Lecture_11_React_Part_3_Note.md)
 - [Lecture_12_React_Part_4.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/ebbd2a684a924a14253d0052e373f57b8f15f9f2/Lecture_12_React_Part_4_Note.md)
 - [Lecture_13_React_Part_5.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/432919af29bd5155c6dafb9ccc991b3bce865d61/Lecture_13_React_Part_5_Note.md)
+- [Lecture_14_Node_Part_1.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/eb71a37950f2fee3e3d7a17df8816b06833b7435/Lecture_14_Node_Part_1_Note.md)
