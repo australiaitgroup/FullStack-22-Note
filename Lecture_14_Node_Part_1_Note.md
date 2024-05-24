@@ -2,6 +2,10 @@
 
 本篇笔记是以 Mason 老师的 Lecture 14 Node.js (Part 1) 的课堂内容整理的随堂笔记。
 
+参考：
+
+- [课堂代码](https://github.com/LazeBear/jr-fullstack-notes-22)
+
 ## Table of Contents
 
 1. [Course Structure](#1-course-structure)
