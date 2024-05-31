@@ -1,6 +1,6 @@
 # Lecture 15 Node Part 2
 
-本篇笔记是以 Mason 老师的 Lecture 14 Node.js (Part 1) 的课堂内容整理的随堂笔记。
+本篇笔记是以 Mason 老师的 Lecture 15 Node.js (Part 2) 的课堂内容整理的随堂笔记。
 
 参考：
 
