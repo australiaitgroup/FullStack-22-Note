@@ -316,8 +316,8 @@ RESTful APIs are a subset of Web APIs
 
    - GET /api/v1/users 返回了 10，000 条数据
    - 我们分成 1000 页，每页 10 个数据
-     - GET /api/v1/users?page=1$pageSize=10
-     - GET /api/v1/users?page=2$pageSize=10
+     - GET /api/v1/users?page=1&pageSize=10
+     - GET /api/v1/users?page=2&pageSize=10
 
 7. 返回可读的错误信息
    - 400 body: {bady request} 不明确的错误信息
