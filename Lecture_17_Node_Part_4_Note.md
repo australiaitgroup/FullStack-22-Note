@@ -7,7 +7,7 @@
 1. [CORS](#1-cors)
 2. [Router](#2-router)
 3. [Application Structure](#3-application-structure)
-4. [Errir Handling](#4-error-handling')
+4. [Error Handling](#4-error-handling)
 5. [Third-party Package](#5-third-party-package)
 
 ## 1. CORS
@@ -143,7 +143,7 @@ This structure separates concerns effectively:
         |-- ...
 ```
 
-> 💡 practice 项目的的重新拆分请参考 code 文件夹 after 部分
+> 💡 practice 项目的的重新拆分请参考 code 文件夹 [after](https://github.com/australiaitgroup/FullStack-22-Note/tree/29a4498e470cc862e079c9c6dbb2640a8249e0e2/code/Node/Practice/after) 部分
 
 ## 4. Error Handling
 
