@@ -107,7 +107,7 @@ app.delete('/v1/tasks/:id', parseId, (req, res) => {
 //    body: N/A
 //    Response status code: 200 / 404
 //    Response body: {data:{id, name, completed}} / {error:"task not found"}
-router.get('/v1/tasks/:id', parseId, (req, res) => {
+app.get('/v1/tasks/:id', parseId, (req, res) => {
   const { id } = req.params;
   const task = tasks.find((i) => i.id === id);
   if (!task) {
