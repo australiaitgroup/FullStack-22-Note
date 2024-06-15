@@ -18,3 +18,4 @@
 - [Lecture_16_Node_Part_3.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/b62530b5e60683fb68b7edded7c90469f0998f6e/Lecture_16_Node_Part_3_Note.md)
 - [Lecture_17_Node_Part_4.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/29a4498e470cc862e079c9c6dbb2640a8249e0e2/Lecture_17_Node_Part_4_Note.md)
 - [Lecture_18_Node_Part_5.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/00ef23f91864bcb5d585ac25e71cb2028ffc34bd/Lecture_18_Node_Part_5_Note.md)
+- [Lecture_19_Node_Part_6.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/6ab6e8edb30eb059b5d37d71750ab0546dd10ace/Lecture_19_Node_Part_6_Note.md)
