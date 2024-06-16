@@ -107,6 +107,7 @@
 **Dependences**:
 
 - webpack
+- webpack-cli
 - react
 - reack-dom
 - babel-loader
@@ -114,10 +115,22 @@
 
 **Steps**:
 
-1. Install
+1. Initialize new project
 
    ```bash
-   npm i webpack
+   npm init -y
+   ```
+
+   ```bash
+   npm install --save-dev webpack webpack-cli
+   ```
+
+   ```bash
+   npm install react react-dom
+   ```
+
+   ```bash
+   npm install --save-dev babel-loader @babel/core @babel/preset-react
    ```
 
 2. Create `webpack.config.js`
@@ -191,7 +204,7 @@
    Or write this command into the script
 
    ```json
-    // package.json
+    <!-- package.json -->
     "scripts": {
         "build": "webpack --config webpack.config.js"
     }
