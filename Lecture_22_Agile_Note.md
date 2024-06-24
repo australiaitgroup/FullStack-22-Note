@@ -4,6 +4,19 @@
 
 ## Table of Contents
 
+1. [Agile](#1-agile)
+
+   - [1.1 Software Development Life Cycle](#11-software-development-life-cycle)
+   - [1.2 Agile Model](#12-agile-model)
+
+2. [Scrum](#2-scrum)
+
+   - [2.1 Roles](#21-roles)
+   - [2.2 Artifacts](#22-artifacts)
+   - [2.3 Events](#23-events)
+
+3. [Kanban](#3-kanban)
+
 ## 1. Agile
 
 Agile is a methodology for project management and software development that emphasizes flexibility, collaboration, and customer satisfaction.
