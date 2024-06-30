@@ -22,3 +22,5 @@
 - [Lecture_20_React_Part_6.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/a3a6a5c44e1a7adc697a3a62b5bfe626993338c7/Lecture_20_React_Part_6_Note.md)
 - [Lecture_21_Node_Part_7_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/fbd9c455b462f490807f3f9cffde6482d7d77de1/Lecture_21_Node_Part_7_Note.md)
 - [Lecture_22_Agile_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/fbd9c455b462f490807f3f9cffde6482d7d77de1/Lecture_22_Agile_Note.md)
+- [Lecture_23_React_Part_7_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/e24d69eb2ced59614683d03a045009aff3e3ed0c/Lecture_23_React_Part_7_Note.md)
+- [Lecture_24_Node_Part_8_Note.md](https://github.com/australiaitgroup/FullStack-22-Note/blob/e24d69eb2ced59614683d03a045009aff3e3ed0c/Lecture_24_Node_Part_8_Note.md)
